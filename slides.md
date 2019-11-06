@@ -301,6 +301,7 @@ export default class Example extends Component {
 ---
 ## References
 
+- https://almost-octane.ghedamat.now.sh
 - [@melsumner slides](https://noti.st/melsumner/Hl16PZ/hands-on-with-ember-octane#szckVnl)
 - [guides](https://octane-guides-preview.emberjs.com/release/upgrading/current-edition/cheat-sheet/)
 
