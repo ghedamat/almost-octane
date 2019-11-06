@@ -1,0 +1,5 @@
+{
+        "version": 2,
+        "name": "almost-octane",
+        "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+}
